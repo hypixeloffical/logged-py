@@ -44,14 +44,14 @@ logger.all("This is a message for all levels.")
 - **Flexible Output Options:** Choose between console and file output.
 
 ### API Reference
-<class>Logger
+\<class\>Logger
 A class for logging messages.
 
 #### Constructor:
 
-**<str>output_type:** "console" or "file". Default is "console".
-**<str>format:** Log message format. Default is "<bold><gray>/d</gray> <type>/t</type></bold> /m".
-**<str?>file:** File path for file output.
+**\<str\>output_type:** "console" or "file". Default is "console".
+**\<str\>format:** Log message format. Default is "<bold><gray>/d</gray> <type>/t</type></bold> /m".
+**\<str?\>file:** File path for file output.
 
 #### Methods:
 
