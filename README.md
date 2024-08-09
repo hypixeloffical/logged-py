@@ -53,13 +53,13 @@ logger.all("This is a message for all levels.")
 <class>Logger
 A class for logging messages.
 
-Constructor:
+#### Constructor:
 
 **<str>output_type:** "console" or "file". Default is "console".
 **<str>format:** Log message format. Default is "<bold><gray>/d</gray> <type>/t</type></bold> /m".
 **<str?>file:** File path for file output.
 
-Methods:
+#### Methods:
 
 **trace(message: str):** Logs a trace message.
 
@@ -76,7 +76,7 @@ Methods:
 **all(message: str):** Logs a message for all levels.
 
 
-Example:
+#### Example:
 ```python
 import logger
 
@@ -90,4 +90,4 @@ logger.error("This is an error message.")
 
 ## License
 
-This package is licensed under the MIT License. See the LICENSE file for details.
+This package is licensed under the MIT License. See the [LICENSE](https://github.com/hypixeloffical/logged-py/main/LICENSE.md) file for details.
