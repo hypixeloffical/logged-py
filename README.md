@@ -61,19 +61,19 @@ A class for logging messages.
 
 #### Methods:
 
-**trace(message: str):** Logs a trace message.
+**<None>trace(message: str):** Logs a trace message.
 
-**debug(message: str):** Logs a debug message.
+**<None>debug(message: str):** Logs a debug message.
 
-**info(message: str):** Logs an info message.
+**<None>info(message: str):** Logs an info message.
 
-**warn(message: str):** Logs a warning message.
+**<None>warn(message: str):** Logs a warning message.
 
-**error(message: str):** Logs an error message.
+**<None>error(message: str):** Logs an error message.
 
-**fatal(message: str):** Logs a fatal message.
+**<None>fatal(message: str):** Logs a fatal message.
 
-**all(message: str):** Logs a message for all levels.
+**<None>all(message: str):** Logs a message for all levels.
 
 
 #### Example:
