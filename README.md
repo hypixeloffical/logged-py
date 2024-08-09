@@ -45,6 +45,7 @@ logger.all("This is a message for all levels.")
 
 ### API Reference
 \<class\>Logger
+
 A class for logging messages.
 
 #### Constructor:
