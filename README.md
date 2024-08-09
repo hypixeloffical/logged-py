@@ -90,4 +90,4 @@ logger.error("This is an error message.")
 
 ## License
 
-This package is licensed under the MIT License. See the [LICENSE](https://github.com/hypixeloffical/logged-py/main/LICENSE.md) file for details.
+This package is licensed under the MIT License. See the [LICENSE](https://github.com/hypixeloffical/logged-py/main/LICENSE) file for details.
