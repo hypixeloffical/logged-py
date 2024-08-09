@@ -26,9 +26,11 @@ Create a Logger instance with the desired output type and format.
 ```python
 logger = logger.Logger(output_type='console', format='<bold><gray>/d</gray> <type>/t</type></bold>       /m')
 ```
-**output_type:** Specify "console" for console output or "file" for file output.\n
-**format:** Define the log message format using custom tags (e.g., /d for date, /t for type, /m for message).\n
-**file:** If you chose output type as "file" this is a required parameter which must include the log file path.\n
+**output_type:** Specify "console" for console output or "file" for file output.
+
+**format:** Define the log message format using custom tags (e.g., /d for date, /t for type, /m for message).
+
+**file:** If you chose output type as "file" this is a required parameter which must include the log file path.
 
 ### Logging Messages
 You can use different methods to log messages at various levels:
