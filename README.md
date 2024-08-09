@@ -2,18 +2,12 @@
 A custom logging package with advanced features including color-coded console output, log rotation, and compression.
 
 ## Installation
-To install the package, you need to create a distribution and upload it to PyPI. If you want to install it locally for testing, follow these steps:
-
-Prepare the Package: Create the source distribution and wheel files:
+To install the package you can run this command in your command prompt or powershell.
 
 ```bash
-python setup.py sdist bdist_wheel
+pip install logged
 ```
-Install Locally:
 
-```bash
-pip install dist/your_logging_package-0.1.0-py3-none-any.whl
-```
 ## Usage
 ### Importing the Package
 ```python
